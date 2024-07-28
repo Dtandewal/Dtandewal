@@ -19,8 +19,10 @@ I'm Deepanshu, a passionate front-end developer with a love for crafting beautif
 
 Here are some projects I've worked on:
 
-Project 1: Github_Profile_fetch
+Project 1: Github_Profile_fetch.
 Project 2:Dice_Game.
+Project 3:Website_Furniture.
+Project 4:Job_Appication_Form.
 
 Feel free to explore my repositories for more!
 
