@@ -11,20 +11,10 @@ I'm Deepanshu, a passionate front-end developer with a love for crafting beautif
 🚀 My primary focus is on building responsive and performant web applications that provide a delightful user experience.
 
 ## Skills
-- **Languages:** HTML5, CSS3, JavaScript (ES6+),JAVA
-- **Frameworks/Libraries:** React.js, Next js
-- **Tools/Platforms:** Git, npm.
+- **Languages:** JAVA, SQL, HTML5, CSS3, JavaScript.
+- **Frameworks/Libraries:** SpringBoot, Hibernate, React.js.
+- **Tools/Platforms:** Oracle Apex, Eclipse, VS Code, IntelliJ, MYSQL, Git. 
   
-## Projects
-
-Here are some projects I've worked on:
-
-- Project 1: Github_Profile_fetch.
-- Project 2:Dice_Game.
-- Project 3:Website_Furniture.
-- Project 4:Job_Appication_Form.
-
-Feel free to explore my repositories for more!
 
 ## Get in Touch
 📫 You can reach out to me via [email](mailto:deepanshutandewal@gmail.com) or connect with me on LinkedIn.
