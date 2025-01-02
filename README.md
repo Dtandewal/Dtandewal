@@ -1,12 +1,15 @@
 ## Hi there!
 
-I'm Deepanshu, a passionate front-end developer with a love for crafting beautiful and intuitive user interfaces. Looking for a job!! Welcome to my GitHub profile!
+My Name is Deoanshu.I am a skilled Java Developer with a strong background developing scalable, efficient, and robust applications. I have expertise in Java programming, Spring Boot framework, and building RESTful APIs. My experience includes working on end-to-end application development, debugging, and collaborating with cross-functional teams to deliver high-quality solutions. I am passionate about leveraging my problem-solving skills and technical knowledge to contribute to innovative projects and drive business success.
+
+Feel free to adjust it based on your specific experience or role requirements.
 
 ## About Me
 
 🎓 I hold a degree in Btech and holds passion in development
 
 💻 I specialize in front-end development using modern web technologies such as HTML5, CSS3,JAVASCRIPT,REACT JS .
+
 
 🚀 My primary focus is on building responsive and performant web applications that provide a delightful user experience.
 
